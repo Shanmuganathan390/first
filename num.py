@@ -1,3 +1,3 @@
 a=19
-b=23
-print(a%b)
+b=27
+print(a*b)
